@@ -17,25 +17,33 @@ With simulation, we have three functions of simulation one function for strategy
 
 ### warning: in the crypto market the past tell us nothing about future so don’t be so happy  
 
-So there is a trend strategy we use in this tool we use the moving average of 200 and 600 and we make decision with this tolls we have our decision set  
+* So there is a trend strategy we use in this tool we use the moving average of 200 and 600 and we make decision with this tolls we have our decision set  
 
-If you want to learn more : https://learn.bybit.com/trading/how-to-use-moving-average-to-trade-crypto/  
+      If you want to learn more : https://learn.bybit.com/trading/how-to-use-moving-average-to-trade-crypto/  
 
-The Trix strategy  is using a triple moving average  and the average of the triple moving average and with these two tolls we made a set of decision : 
+* The Trix strategy  is using a triple moving average  and the average of the triple moving average and with these two tolls we made a set of decision : 
 
-For more information see the notebook or/and  see  : https://www.youtube.com/watch?v=HEq447LrOHY&ab_channel=TRADINGRUSH     
+       For more information see the notebook or/and  see  : https://www.youtube.com/watch?v=HEq447LrOHY&ab_channel=TRADINGRUSH     
 
-Finally, there’s the Aligator stratgy  where we use five indicators  but in this project, this strategy is not opptimaised  but you can understand how it’s work 
+* Finally, there’s the Aligator stratgy  where we use five indicators  but in this project, this strategy is not opptimaised  but you can understand how it’s work 
 
 
 ## Use a Bottrend :  
 
-You have a script bottred.py  in this repository, in the first lines you find  
+You have a script bottred.py  in this repository, in the 20 lines you find  
 
-Strg='trix'    
+    Strg='trix'    
  
 And also use your ftx token to have access are you account or subaccount 
 So this you make you use a strategy that you want so like  if  Strg='trix'  you use Trix and Strg='trend’ 
  
-And finally, you have to make your bot in a virtual machine in Amazon or google cloud for your bot work all times 
+And finally, you have to make your bot in a virtual machine in Amazon or google cloud for your bot work all times   
+
+
+references : 
+
+https://github.com/nicolasbonnici/cryptobot 
+
+
+
 
