@@ -5,7 +5,7 @@ this project is about creating a bot that does trading in the market of crypto m
 
 The second time, when you understand all strategies  you use what you need  put you need to one little manipulation in the script, i will tell what and how  
 
-Finally, you can use this to do something more interesting and you will happy if you tell me 
+Finally, you can use this to do something more interesting and i will happy if you tell me 
 
 
 ## Stratigies and simmulation  
@@ -35,7 +35,7 @@ You have a script bottred.py  in this repository, in the 20 lines you find
     Strg='trix'    
  
 And also use your ftx token to have access are you account or subaccount 
-So this you make you use a strategy that you want so like  if  Strg='trix'  you use Trix and Strg='trend’ 
+So this you make you use a strategy that you want so like  if  Strg='trix'  you use Trix and if Strg='trend’ you use trend strtigy  
  
 And finally, you have to make your bot in a virtual machine in Amazon or google cloud for your bot work all times   
 
