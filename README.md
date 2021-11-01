@@ -28,7 +28,7 @@ For more information see the notebook or/and  see  : https://www.youtube.com/wat
 Finally, there’s the Aligator stratgy  where we use five indicators  but in this project, this strategy is not opptimaised  but you can understand how it’s work 
 
 
-##Use a Bottrend :  
+## Use a Bottrend :  
 
 You have a script bottred.py  in this repository, in the first lines you find  
 
