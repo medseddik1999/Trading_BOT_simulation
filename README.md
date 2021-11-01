@@ -34,10 +34,11 @@ You have a script bottred.py  in this repository, in the 20 lines you find
 
     Strg='trix'    
  
-And also use your ftx token to have access are you account or subaccount 
 So this you make you use a strategy that you want so like  if  Strg='trix'  you use Trix and if Strg='trend’ you use trend strtigy  
- 
-And finally, you have to make your bot in a virtual machine in Amazon or google cloud for your bot work all times   
+And also use your ftx token to have access are you account or subaccount 
+
+
+And finally, you have to make your bot in a virtual machine in Amazon or google cloud for your bot run this script all times   
 
 
 references : 
