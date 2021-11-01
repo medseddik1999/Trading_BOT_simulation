@@ -44,7 +44,7 @@ And finally, you have to make your bot in a virtual machine in Amazon or google 
 references : 
 
 https://github.com/nicolasbonnici/cryptobot 
-
+https://discord.com/channels/866447650291318835/866447650978660443 
 
 
 
