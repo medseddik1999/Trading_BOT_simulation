@@ -1,19 +1,20 @@
 # Trendig_BOT_simulation
-this project is about creating a bot that does trading in the market of crypto money and he is armed with strategies "trend" or "Trix" or "alligator"   but before using the bot we should do a backtest so there is three strategies to use. 
+this project is about creating a bot that does trading in the market of crypto money and he is armed with strategies "trend" or "Trix" or "alligator"  but before using the bot we should do some backtests with three strategies to use. 
 
- The first is to go to backtest.ipynb chek this notebook to understand the strategies and if you want to use them there is also a nice simulation part about these strategies which tell you what did you will get if you put money in the past.   
+ The first step  go to backtest.ipynb chek this notebook to understand the strategies and if you want to use them there is also a nice simulation part about these strategies which tell you what did you will get if you put money in the past.   
 
-The second time, when you understand all strategies  you use what you need  put you need to one little manipulation in the script, i will tell what and how  
+The second time, when you will understand all strategies  you use what will you need and to use a stratigy  I maked need 
+one little manipulation in the script, i will tell what and how  .
 
-Finally, you can use this to do something more interesting and i will happy if you tell me 
+Finally, you can use this to do something more interesting .
 
 
 ## Stratigies and simmulation  
    
 
- So, in its first step, we have three strategies, so for one strategy we have a little presentation in the notebook backtest with data visualisation, who help you to understand but I tell you also the optimisation of strategies is not the best because I do that with manual way. 
+ So, in its first step, we have three strategies. for each strategy, we have a little presentation in the notebook backtest with data visualisation, who help you to understand but I tell you also the optimisation of strategies is not the best because I do that with manual way. 
  
-With simulation, we have three functions of simulation one function for strategy  so function take input usdt and a data frame with interval date time  and the function return data frame with operations, portfolio, return  and performance of the portfolio with each strategy  and you can how your portfolio move with the market 
+With simulation, we have three functions of simulation one function for each strategy  so function take input usdt and a data frame with interval date time  and the function return data frame with operations, portfolio, return  and performance of the portfolio with each strategy  and you can how your portfolio move with the market .
 
 ### warning: in the crypto market the past tell us nothing about future so don’t be so happy  
 
