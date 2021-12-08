@@ -1,4 +1,4 @@
-# Trendig_BOT_simulation
+# Trandig_BOT_simulation
 this project is about creating a bot that does trading in the market of crypto money and he is armed with strategies "trend" or "Trix" or "alligator"  but before using the bot we should do some backtests with three strategies to use. 
 
  The first step  go to backtest.ipynb chek this notebook to understand the strategies and if you want to use them there is also a nice simulation part about these strategies which tell you what did you will get if you put money in the past.   
