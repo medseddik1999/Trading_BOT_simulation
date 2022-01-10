@@ -1,4 +1,4 @@
-# Trandig_BOT_simulation
+# Trading_BOT_simulation
 This project consists of creating a bot that trades on the crypto-currency market. It is armed with three strategies "trend", "Trix" and "Alligator". But before using the bot, we will have to do some backtesting. 
 
 First, we go to the "backtest.ipynb" file to understand the strategies and their performance, there is also a nice simulation part that shows the performance of the portfolio with each strategy.  
