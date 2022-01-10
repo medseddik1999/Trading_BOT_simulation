@@ -1,28 +1,25 @@
 # Trandig_BOT_simulation
-this project is about creating a bot that does trading in the market of crypto money and he is armed with strategies "trend" or "Trix" or "alligator"  but before using the bot we should do some backtests with three strategies to use. 
+This project consists of creating a bot that trades on the crypto-currency market. It is armed with three strategies "trend", "Trix" and "Alligator". But before using the bot, we will have to do some backtesting. 
 
- The first step  go to backtest.ipynb chek this notebook to understand the strategies and if you want to use them there is also a nice simulation part about these strategies which tell you what did you will get if you put money in the past.   
+First, we go to the "backtest.ipynb" file to understand the strategies and their performance, there is also a nice simulation part that shows the performance of the portfolio with each strategy.  
 
-The second time, when you will understand all strategies  you use what will you need and to use a stratigy  I maked need 
-one little manipulation in the script, i will tell what and how  .
-
-Finally, you can use this to do something more interesting .
+In the second time, when we understood all the strategies , you need to use one  for this bot ,and it takes a bit of manipulation in the script.
 
 
 ## Stratigies and simmulation  
    
 
- So, in its first step, we have three strategies. for each strategy, we have a little presentation in the notebook backtest with data visualisation, who help you to understand but I tell you also the optimisation of strategies is not the best because I do that with manual way. 
+ So in the first step we have three strategies. For each strategy we have a small presentation in the backtest book with the data visualization, which helps you to understand but I indicate that the optimization of the strategies is not the best because I did it with the manual method. 
  
-With simulation, we have three functions of simulation one function for each strategy  so function take input usdt and a data frame with interval date time  and the function return data frame with operations, portfolio, return  and performance of the portfolio with each strategy  and you can how your portfolio move with the market .
+With the simulation, we have three simulation functions, one function for each strategy, the function takes the money as input and a data frame with the time interval and the function returns the data frame with the trades, the portfolio, the return and the performance of the portfolio with each strategy and you can see the movements of the portfolio with the market evolution. 
 
-### warning: in the crypto market the past tell us nothing about future so don’t be so happy  
+### warning: in the crypto market the past tells us nothing about future so don’t be so confident   
 
-* So there is a trend strategy we use in this tool we use the moving average of 200 and 600 and we make decision with this tolls we have our decision set  
+* So there is a trend strategy where we  use the moving average of 200 and 600 to make decision  policy . 
 
       If you want to learn more : https://learn.bybit.com/trading/how-to-use-moving-average-to-trade-crypto/  
 
-* The Trix strategy  is using a triple moving average  and the average of the triple moving average and with these two tolls we made a set of decision : 
+* The Trix strategy use a triple moving average and the average of the triple moving average to make decision policy : 
 
        For more information see the notebook or/and  see  : https://www.youtube.com/watch?v=HEq447LrOHY&ab_channel=TRADINGRUSH     
 
@@ -31,7 +28,7 @@ With simulation, we have three functions of simulation one function for each str
 
 ## Use a Bottrend :  
 
-You have a script bottred.py  in this repository, in the 20 lines you find  
+You have a script "bottred.py"  in this repository, in the 20 lines you find  
 
     Strg='trix'    
  
