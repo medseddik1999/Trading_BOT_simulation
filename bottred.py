@@ -31,8 +31,8 @@ fiatSymbol = 'USD'
 cryptoSymbol = 'XRP'
 myTruncate = 4
 
-client = ftx.FtxClient(api_key='fShnnkX96Fs0bevsKNxm1Y4vjeXgf1q39PY342HB',
-                   api_secret='-AHMz3a4o3nGn-DUfLu0-0WoI1OIFRkMZDOVuL7l', subaccount_name=accountName)
+client = ftx.FtxClient(api_key='',
+                   api_secret='-', subaccount_name=accountName)
 
 data = client.get_historical_data(
     market_name=pairSymbol, 
